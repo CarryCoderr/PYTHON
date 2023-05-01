@@ -1,0 +1,44 @@
+CARRYCODER
+
+Variables
+Variables are containers for storing data values.
+
+Built-in Data Types in python 
+In programming, data type is an important concept.
+
+Variables can store data of different types, and different types can do different things.
+
+Python has the following data types built-in by default, in these categories:
+
+Text Type:	str
+Numeric Types:	int, float, complex
+Sequence Types:	list, tuple, range
+Mapping Type:	dict
+Set Types:	set, frozenset
+Boolean Type:	bool
+Binary Types:	bytes, bytearray, memoryview
+None Type:	NoneType
+
+python case sensitive 
+
+Reserved words in Python
+Here is the list of all the reserved words in Python.
+Note - This list may change with different versions of Python. Python 3 has 33 while Python 2 has 30 reserved words. The print was removed from Python 2 keywords and added as a built-in Python function.
+
+False	def	  if	   raise
+None	   del	import	 return
+True	 elif	 in	 try
+and	 else	  is	         while
+as	except	lambda	with
+assert	finally	nonlocal	yield
+break	for	not
+class	form	or
+continue	global	pass
+
+Snake case separates each word with an underscore character (_).
+
+When using snake case, all letters need to be lowercase.
+
+When using camel case, you start by making the first word lowercase. Then, you capitalize the first letter of each word that follows.
+
+So, a capital letter appears at the start of the second word and at each new subsequent word that follows it.

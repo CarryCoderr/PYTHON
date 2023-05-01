@@ -1,0 +1,22 @@
+CARRY CODER
+Python Conditions and If statements
+Python supports the usual logical conditions from mathematics:
+
+Equals: a == b
+Not Equals: a != b
+Less than: a < b
+Less than or equal to: a <= b
+Greater than: a > b
+Greater than or equal to: a >= b
+These conditions can be used in several ways, most commonly in "if statements" and loops.
+
+An "if statement" is written by using the if keyword.
+Else
+The else keyword catches anything which isn't caught by the preceding conditions.
+Elif
+The elif keyword is Python's way of saying "if the previous conditions were not true, then try this condition".
+
+#assignment
+Q1 if any one like my post increase like and dislike my post increase dislike
+Q2 if any one like my post increase like and dislike my post decrease like
+Q3 if time is night and sleep is sleepy  and watching is comdey show then watch tv and watching is movie then go enjoy and watching is nothing go to bed
