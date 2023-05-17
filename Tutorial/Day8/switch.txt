@@ -1,0 +1,16 @@
+CARRYCODER
+
+the switch is a control mechanism that tests the value stored in a variable and executes the corresponding case statements. Switch case statement introduces control flow in your program and ensures that your code is not cluttered by multiple 'if' statements. 
+
+How to Implement Switch Statements with the match and case Keywords in Python 3.10
+To write switch statements with the structural pattern matching feature, you can use the syntax below:
+
+match term:
+    case pattern-1:
+         action-1
+    case pattern-2:
+         action-2
+    case pattern-3:
+         action-3
+    case _:
+        action-default
