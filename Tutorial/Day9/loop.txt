@@ -1,0 +1,27 @@
+CARRYCODER
+
+a loop is a sequence of instruction s that is continually repeated until a certain condition is reached.  loop is basical three type 
+while 
+do-while
+for 
+but python support while and for loop
+
+
+Python programming language provides the following types of loops to handle looping requirements. Python provides three ways for executing the loops. While all the ways provide similar basic functionality, they differ in their syntax and condition-checking time.
+
+PEP 315 (Python Enhancement Proposal) to include do..while statement has been rejected because it doen't fit in the general format of indented block statement: indented block used by every other Python compound statement. 
+
+While Loop in Python
+In python, a while loop is used to execute a block of statements repeatedly until a given condition is satisfied. And when the condition becomes false, the line immediately after the loop in the program is executed.
+
+Syntax:
+
+while expression:
+    statement(s)
+
+All the statements indented by the same number of character spaces after a programming construct are considered to be part of a single block of code. Python uses indentation as its method of grouping statements. 
+
+Q1->joining age=25 aur 60 thk sare age print karao aur jaise hi 60 sa jayada ho jaya to retire kr do usko
+Q2-> atm amount=1000 tb thk paise nikalo jb thk 100 rupee na bacha
+
+
