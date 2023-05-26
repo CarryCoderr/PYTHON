@@ -1,0 +1,12 @@
+CARRYCODER
+
+Iterable: An iterable is an object that can be iterated over, meaning it can be used in a loop or other constructs that expect a sequence of values. It provides a way to access its elements sequentially. 
+
+Iterator: An iterator is an object that implements the iterator protocol, which consists of the __iter__() and __next__() methods. It represents a stream of values and provides a way to retrieve the next value in the sequence. Iterators maintain the state of iteration and know how to move to the next element. 
+
+iteration: Iteration refers to the process of repeatedly retrieving elements from an iterator or iterating over an iterable. It involves accessing elements one by one in a sequence until there are no more elements to retrieve.
+
+Iterate: To iterate means to perform the process of iteration. It is the act of accessing each element in a sequence or collection, typically using a loop or other construct designed for iteration.
+ 
+
+A------------------------------------------------B
