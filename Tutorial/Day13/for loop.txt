@@ -1,0 +1,9 @@
+CARRYCODER
+
+In Python, the for loop is used to run a block of code for a certain number of times. It is used to iterate over any sequences such as list, tuple, string, etc.
+
+The syntax of the for loop is:
+
+for val in sequence:
+    # statement(s)
+
